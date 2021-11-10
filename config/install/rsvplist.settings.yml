@@ -1,0 +1,4 @@
+#the setting to display rsvp block only shows up in allowed_types
+
+allowed_types:
+  - article
